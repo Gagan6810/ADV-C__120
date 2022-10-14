@@ -1,0 +1,16 @@
+.test_image_and_result{
+    background-color:darkgrey;
+    border-radius: 50px;
+    margin:25px;
+    height:500px;
+    box-shadow: 5px 5px 15px grey;
+}
+
+.css_text{
+    background-color: whitesmoke;
+    height:30px;
+    border-radius: 15px;
+    font-size: 15px;
+    text-align: center;
+    padding-top:5px;
+}
